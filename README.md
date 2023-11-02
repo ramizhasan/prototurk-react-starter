@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+# React baslangic projesi :
+
+bu kodlar bir react projesine baslangic icin gerekli paketlerden olusan bir baslangiz setidir
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
